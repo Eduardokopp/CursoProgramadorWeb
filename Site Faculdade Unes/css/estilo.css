@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0 ; 
+    box-sizing: border-box;
+}
+
+li input{
+    align-items: center;
+    font-size: 1rem;
+    border: none;
+    text-align: center;
+    background-color: #c0c0c0;
+    border-radius: 0.25rem;
+    height: 30px;
+  }
+
