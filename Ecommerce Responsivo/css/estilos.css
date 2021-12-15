@@ -1,0 +1,60 @@
+* {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin: 0px;
+}
+
+p,
+ul,h1,h2 ,h3 {
+	margin: 0px;
+	padding: 0px;
+}
+
+hr {
+	margin: 0px;
+	border: 1px solid #275459;
+}
+
+.bg-color1 {
+	background-color: #37A672;
+
+}
+
+.bg-color2 {
+	background-color: #275459;
+}
+
+#nome-logo {
+
+	font-size: 2rem;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#input-nav {
+	border-radius: 100px;
+	border: 1px solid;
+	max-width: 400px;
+	min-width: 100px;
+}
+
+.prod {
+	width: 18rem;
+	padding: 0;
+	margin: 0;
+}
+
+.card:hover {
+	box-shadow: 1px 1px 10px black;
+}
+
+.amarelo {
+	color: yellow;
+}
+
+.card-imagem {
+	display: flex;
+}
+
+.link-nav {
+	border: 1px solid #17a2b8;
+
+}
